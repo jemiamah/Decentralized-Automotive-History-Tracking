@@ -13,3 +13,9 @@ Q
 !contracts/accident-reporting.clar,e/4/e43592094e46820d3325e976e130ed1e292ba952
 P
  tests/accident-reporting.test.ts,7/8/78a77d2fdcf3ea9a803beb6bd1dddda796b27e1e
+Q
+!contracts/ownership-transfer.clar,b/2/b221b9dd71b3ad81cf61bcb72c62341373ee6c2e
+P
+ tests/ownership-transfer.test.ts,a/b/ab347e2e52eecb155e153d50bebe21af3301d51c
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
